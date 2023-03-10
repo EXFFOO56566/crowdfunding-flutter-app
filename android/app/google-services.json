@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "584342828126",
+    "project_id": "funderox",
+    "storage_bucket": "funderox.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584342828126:android:226b2bf4d2b6fbd01770cf",
+        "android_client_info": {
+          "package_name": "com.funderox.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584342828126-8s6t24ng9gbujf0sd48c5mnopnle6b7k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.funderox.app",
+            "certificate_hash": "6bcce48d491e775a0596cc33bba731e29833a5ca"
+          }
+        },
+        {
+          "client_id": "584342828126-2url48gkh44obfhlcnn8ofie9b6ovb1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ8BR9_aCY98T7y9v8zKdtIV6rilf3aik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584342828126-2url48gkh44obfhlcnn8ofie9b6ovb1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
